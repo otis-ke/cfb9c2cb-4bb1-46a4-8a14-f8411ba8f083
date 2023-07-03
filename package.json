@@ -1,0 +1,19 @@
+{
+  "name": "alternative-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha --reporter mocha-multi-reporters --reporter-options configFile=reporters.json test/**"
+  },
+  "author": "vincent otis",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.1.0",
+    "mocha-junit-reporter": "^2.1.1",
+    "mocha-multi-reporters": "^1.5.1",
+    "prompt": "^1.3.0"
+  }
+}
+
