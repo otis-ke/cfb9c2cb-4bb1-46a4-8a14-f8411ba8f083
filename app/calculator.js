@@ -27,8 +27,6 @@ exports.calculate = function(expression) {
       return parseInt(token);
     }
   };
-   kimpa kisanagmeni
-
   // Call the evaluate function with the tokens and return the result
   return evaluate(tokens);
 };
