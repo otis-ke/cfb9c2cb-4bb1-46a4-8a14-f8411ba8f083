@@ -32,3 +32,5 @@ npm test     # run the tests
 Please implement the `calculate` function to solve expressions in the alternative format as expected.
 ----------------------------------------------
 # this project i succesfully  did the  javascript challange
+
+## author otis - ke 
