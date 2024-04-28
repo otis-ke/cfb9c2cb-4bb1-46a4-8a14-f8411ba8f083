@@ -10,7 +10,7 @@ In this alternative notation, the operators precede the operands. For example wh
 
 The main advantage of this format is that it does not require parentheses for any ambiguous expression.
 
-| Traditional notation    | Alternative notation |
+| Traditional notation    | Alternative notation | and all 
 | ----------------  | --------------- |
 | 3 + 4             | + 3 4           |
 | 3 - (4 * 5)       | - 3 * 4 5       |
